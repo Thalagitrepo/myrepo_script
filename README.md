@@ -1,6 +1,6 @@
 # myrepo_script
 
-Project: **calculater.sh**
+# Project: **calculater.sh**
 
 Description:  
 This is a simple calculator script written in Bash. It lets you perform basic math operations like addition, subtraction, multiplication, and division right from the command line.
